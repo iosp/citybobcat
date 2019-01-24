@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: 594b7671d3b404882b5ee5bf39593212
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: back_grond
+    100002: base arm
+    100004: //RootNode
+    100006: body
+    100008: brackets
+    100010: cabin
+    100012: Camera
+    100014: cogwheel
+    100016: cogwheel.001
+    100018: Cube
+    100020: Cube.001
+    100022: Cube.002
+    100024: Cube.003
+    100026: Cube.004
+    100028: Cube.005
+    100030: Cube.006
+    100032: Cylinder
+    100034: Cylinder.001
+    100036: Cylinder.002
+    100038: Cylinder.003
+    100040: Cylinder.004
+    100042: Cylinder.005
+    100044: Cylinder.006
+    100046: Cylinder.007
+    100048: Cylinder.008
+    100050: Cylinder.009
+    100052: light_fill
+    100054: light_key
+    100056: loader
+    100058: main arm
+    100060: Model
+    100062: Model.001
+    100064: Model.002
+    100066: Model.003
+    100068: Model.004
+    100070: Model.005
+    100072: Model.006
+    100074: Model.007
+    100076: Plane.005
+    100078: Point
+    100080: Point.001
+    100082: supporter
+    100084: top installation
+    100086: tracks
+    400000: back_grond
+    400002: base arm
+    400004: //RootNode
+    400006: body
+    400008: brackets
+    400010: cabin
+    400012: Camera
+    400014: cogwheel
+    400016: cogwheel.001
+    400018: Cube
+    400020: Cube.001
+    400022: Cube.002
+    400024: Cube.003
+    400026: Cube.004
+    400028: Cube.005
+    400030: Cube.006
+    400032: Cylinder
+    400034: Cylinder.001
+    400036: Cylinder.002
+    400038: Cylinder.003
+    400040: Cylinder.004
+    400042: Cylinder.005
+    400044: Cylinder.006
+    400046: Cylinder.007
+    400048: Cylinder.008
+    400050: Cylinder.009
+    400052: light_fill
+    400054: light_key
+    400056: loader
+    400058: main arm
+    400060: Model
+    400062: Model.001
+    400064: Model.002
+    400066: Model.003
+    400068: Model.004
+    400070: Model.005
+    400072: Model.006
+    400074: Model.007
+    400076: Plane.005
+    400078: Point
+    400080: Point.001
+    400082: supporter
+    400084: top installation
+    400086: tracks
+    2300000: back_grond
+    2300002: base arm
+    2300004: body
+    2300006: brackets
+    2300008: cabin
+    2300010: cogwheel
+    2300012: cogwheel.001
+    2300014: Cube
+    2300016: Cube.001
+    2300018: Cube.002
+    2300020: Cube.003
+    2300022: Cube.004
+    2300024: Cube.005
+    2300026: Cube.006
+    2300028: Cylinder
+    2300030: Cylinder.001
+    2300032: Cylinder.002
+    2300034: Cylinder.003
+    2300036: Cylinder.004
+    2300038: Cylinder.005
+    2300040: Cylinder.006
+    2300042: Cylinder.007
+    2300044: Cylinder.008
+    2300046: Cylinder.009
+    2300048: light_fill
+    2300050: light_key
+    2300052: loader
+    2300054: main arm
+    2300056: Model
+    2300058: Model.001
+    2300060: Model.002
+    2300062: Model.003
+    2300064: Model.004
+    2300066: Model.005
+    2300068: Model.006
+    2300070: Model.007
+    2300072: Plane.005
+    2300074: supporter
+    2300076: top installation
+    2300078: tracks
+    3300000: back_grond
+    3300002: base arm
+    3300004: body
+    3300006: brackets
+    3300008: cabin
+    3300010: cogwheel
+    3300012: cogwheel.001
+    3300014: Cube
+    3300016: Cube.001
+    3300018: Cube.002
+    3300020: Cube.003
+    3300022: Cube.004
+    3300024: Cube.005
+    3300026: Cube.006
+    3300028: Cylinder
+    3300030: Cylinder.001
+    3300032: Cylinder.002
+    3300034: Cylinder.003
+    3300036: Cylinder.004
+    3300038: Cylinder.005
+    3300040: Cylinder.006
+    3300042: Cylinder.007
+    3300044: Cylinder.008
+    3300046: Cylinder.009
+    3300048: light_fill
+    3300050: light_key
+    3300052: loader
+    3300054: main arm
+    3300056: Model
+    3300058: Model.001
+    3300060: Model.002
+    3300062: Model.003
+    3300064: Model.004
+    3300066: Model.005
+    3300068: Model.006
+    3300070: Model.007
+    3300072: Plane.005
+    3300074: supporter
+    3300076: top installation
+    3300078: tracks
+    4300000: Model.007
+    4300002: Model.006
+    4300004: Model.005
+    4300006: Model.004
+    4300008: Model.003
+    4300010: Model.002
+    4300012: Model.001
+    4300014: cogwheel.001
+    4300016: tracks
+    4300018: Cylinder.009
+    4300020: Cylinder.008
+    4300022: Cylinder.007
+    4300024: Cylinder.006
+    4300026: Cylinder.005
+    4300028: Cylinder.004
+    4300030: Cylinder.003
+    4300032: Cylinder.002
+    4300034: Cylinder.001
+    4300036: Cylinder
+    4300038: Cube
+    4300040: top installation
+    4300042: supporter
+    4300044: main arm
+    4300046: loader
+    4300048: cabin
+    4300050: brackets
+    4300052: base arm
+    4300054: body
+    4300056: Cube.001
+    4300058: Cube.002
+    4300060: Cube.003
+    4300062: Cube.004
+    4300064: Cube.005
+    4300066: Cube.006
+    4300068: back_grond
+    4300070: light_fill
+    4300072: light_key
+    4300074: Plane.005
+    4300076: Model
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grey
+    second: {fileID: 2100000, guid: dfc40d5be7c29664ea11ccbb4af396de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: 44de7eb92dabf4185b5564391d8b85c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: 047a2ae1e10fe4f239bec65fac2be0a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orange
+    second: {fileID: 2100000, guid: d9afb39b7eb3aa24abdd5f245922b117, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trans
+    second: {fileID: 2100000, guid: 25c3efdddd5694962b99bce268ecaff4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2100000, guid: d6116ffda8dbc4ca6bd5c81dce82ff12, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
